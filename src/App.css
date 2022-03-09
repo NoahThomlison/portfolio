@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.heroImage {
+  background-image: url("/src/images/daniel-olah-HNkgPFBShSw-unsplash.jpg");
+  background-size: cover;
+  /* background-repeat: ; */
+}
